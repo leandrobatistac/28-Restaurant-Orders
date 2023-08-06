@@ -1,5 +1,5 @@
 from enum import Enum
-
+#
 
 class Restriction(Enum):
     ANIMAL_DERIVED = "ANIMAL_DERIVED"
